@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "344613329352",
+    "project_id": "marketplace-7ca7b",
+    "storage_bucket": "marketplace-7ca7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344613329352:android:3aedab79f85e7e07d188fd",
+        "android_client_info": {
+          "package_name": "dj.indore.Posts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344613329352-94tn29pe4p7pq4c5q5qt7uhtg1jpo9t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dj.indore.Posts",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "344613329352-u1dj6prqdo5k3k5s4fcmgqftinilnqgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtoOqY1zQkDbP1UQBot8fUsw3w5dEv0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344613329352-u1dj6prqdo5k3k5s4fcmgqftinilnqgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344613329352-55ih8c41pkbh71iib6eq9tlerkgod513.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dj.indore.Posts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
